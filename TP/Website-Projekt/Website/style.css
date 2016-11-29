@@ -1,0 +1,12 @@
+.header{
+    color:aquamarine;
+    background-color: crimson;
+}
+
+.startButton{
+    position: absolute;
+    z-index: 1;
+    margin-left: -80%;
+    margin-top:20%;
+    width: 50%;
+}
